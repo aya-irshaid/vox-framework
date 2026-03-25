@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "Vox",
             url: "https://github.com/aya-irshaid/vox-framework/releases/download/0.1.242/Vox.xcframework.zip",
-            checksum: "d4ffb1d40b880c841e7ff125b4b3a0f93b6f84eee95c558961752b0dcb7bb957"
+            checksum: "04193dfa858c6a03c1fbffa09ac181b703b0af6e53c7ea625c2a71b9c0fbf785"
         )
     ]
 ).swift
